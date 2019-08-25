@@ -2,6 +2,8 @@
 |[Overview](https://github.com/ismccarthy)
 <br>
 |[Repositories](https://github.com/ismccarthy?tab=repositories)
+-[Shiny App in R](https://github.com/ismccarthy/HorseRace_App)
+-[Stock Valuation & Option Pricing in Python](https://github.com/ismccarthy/StockValuation)
 <br>
 <br>
 ## Other Links
