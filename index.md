@@ -13,7 +13,8 @@ Repositories:
 <br>
 [Twitter](https://twitter.com/iansmccarthy)
 <br>
-<a href=“mailto: ianmccarthy.data@gmail.com”>Email - ianmccarthy.data@gmail.com</a>
+<a href = “mailto:ianmccarthy.data@gmail.com”>Email: ianmccarthy.data@gmail.com</a>
+<br>
 [Email](mailto: ianmccarthy.data@gmail.com)
 
 
