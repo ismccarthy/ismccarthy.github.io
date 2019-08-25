@@ -14,4 +14,5 @@ Repositories:
 [Twitter](https://twitter.com/iansmccarthy)
 
 ## Miscellaneous
-[A GitHub Markup Guide](https://guides.github.com/features/mastering-markdown/)
+Shiny from R Studio (Web Apps) [here](https://shiny.rstudio.com/)
+A GitHub Markup Guide [here](https://guides.github.com/features/mastering-markdown/)
