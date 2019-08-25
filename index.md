@@ -1,8 +1,8 @@
 ## My GitHub Links
 
-[GitHub Overview](https://github.com/ismccarthy)
+[Overview](https://github.com/ismccarthy)
 
-[GitHub Repositories](https://github.com/ismccarthy?tab=repositories)
+[Repositories](https://github.com/ismccarthy?tab=repositories)
 
 <br>
 
