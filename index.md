@@ -2,8 +2,8 @@
 My GitHub [Profile](https://github.com/ismccarthy)
 <br>
 Repositories:
-  - Horse Race Prediction Web App [R Shiny code](https://github.com/ismccarthy/HorseRace_App)
   - Horse Race Prediction Web App [Web App](https://ianmccarthy.shinyapps.io/HorseRace/)
+  - Horse Race Prediction Web App [R Shiny code](https://github.com/ismccarthy/HorseRace_App)
   - Code for Stock Valuation & Option Pricing [Python code](https://github.com/ismccarthy/StockValuation)
   - Very Basic Neural Network for the Iris Data Set [R code](https://github.com/ismccarthy/IrisNeuralNetwork)
   - All Code Repositories [here](https://github.com/ismccarthy)
