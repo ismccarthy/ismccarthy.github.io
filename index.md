@@ -1,6 +1,6 @@
 ## GitHub Links
 [Profile](https://github.com/ismccarthy)
-<br>
+
 Repositories
 <br>
   - Horse Race Results Prediction [Shiny Web App in R](https://github.com/ismccarthy/HorseRace_App)
@@ -13,4 +13,4 @@ Repositories
 [Twitter](https://twitter.com/iansmccarthy)
 
 ## Miscellaneous
-|[A GitHub Markup Guide](https://guides.github.com/features/mastering-markdown/)
+[A GitHub Markup Guide](https://guides.github.com/features/mastering-markdown/)
