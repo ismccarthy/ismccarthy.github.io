@@ -1,4 +1,4 @@
-# IAN MCCARTHY
+# GitHub Links
 
 
 [View my GitHub Profile](https://github.com/ismccarthy?tab=repositories)
