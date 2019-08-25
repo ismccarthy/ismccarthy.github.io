@@ -8,7 +8,9 @@
 
 ## Other Links
 
-[LinkedIn Profile](https://github.com/ismccarthy)
+[LinkedIn Profile](https://www.linkedin.com/in/mccarthyian/)
+
+[Twitter](https://twitter.com/IanSMcCarthy)
 
 <br>
 
