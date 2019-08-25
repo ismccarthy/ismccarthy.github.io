@@ -1,4 +1,5 @@
-## GitHub Links :octocat:
+## GitHub Links 
+:octocat:
 [Overview](https://github.com/ismccarthy)
 <br>
 [Repositories](https://github.com/ismccarthy?tab=repositories)
