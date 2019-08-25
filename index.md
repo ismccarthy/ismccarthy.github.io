@@ -1,4 +1,4 @@
-# Ian McCarthy's GitHub Webpage
+# IAN MCCARTHY
 
 
 
