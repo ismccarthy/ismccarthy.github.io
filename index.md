@@ -1,4 +1,4 @@
 ## Ian McCarthy's GitHub Webpage
 
 
-[markup guide](https://ismccarthy.github.io/markup.html)
+[markup guide](https://guides.github.com/features/mastering-markdown/)
