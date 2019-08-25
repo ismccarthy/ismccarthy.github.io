@@ -13,7 +13,7 @@ Repositories:
 <br>
 [Twitter](https://twitter.com/iansmccarthy)
 <br>
-[email](ianmccarthy.data@gmail.com)
+<a href = "mailto: ianmccarthy.data@gmail.com">Email</a>
 
 ## Miscellaneous
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
