@@ -1,4 +1,5 @@
 ## Ian McCarthy's GitHub Webpage
 
+[my repositories](https://github.com/ismccarthy)
 
-[markup guide](https://guides.github.com/features/mastering-markdown/)
+[GitHub markup guide](https://guides.github.com/features/mastering-markdown/)
