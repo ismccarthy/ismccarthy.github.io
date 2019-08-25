@@ -13,5 +13,4 @@ Repositories
 [Twitter](https://twitter.com/iansmccarthy)
 
 ## Miscellaneous
-<br>
 [A GitHub Markup Guide](https://guides.github.com/features/mastering-markdown/)
