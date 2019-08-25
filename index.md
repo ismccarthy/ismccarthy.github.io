@@ -1,7 +1,6 @@
 ## My GitHub Links
 
 [Overview](https://github.com/ismccarthy)
-
 [Repositories](https://github.com/ismccarthy?tab=repositories)
 
 <br>
