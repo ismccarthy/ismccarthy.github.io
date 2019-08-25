@@ -1,4 +1,4 @@
-# GitHub Links
+## GitHub Links
 
 
 - [View my GitHub Overview](https://github.com/ismccarthy)
