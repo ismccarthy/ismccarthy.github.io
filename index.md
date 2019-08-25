@@ -2,4 +2,4 @@
 
 ## Personal Webpage on GitHub
 
-[markup guide] (https://ismccarthy.github.io/markup.html)
+[markup guide](https://ismccarthy.github.io/markup.html)
