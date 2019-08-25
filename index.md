@@ -15,7 +15,7 @@ Repositories:
 <br>
 <a href = “mailto: ianmccarthy.data@gmail.com”>Email: ianmccarthy.data@gmail.com</a>
 <br>
-[Email](mailto: ianmccarthy.data@gmail.com)
+[Email](mailto: ianmccarthy.data@gmail.com) ianmccarthy.data@gmail.com
 
 
 
