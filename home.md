@@ -1,6 +1,4 @@
-## Welcome to my GitHub Page
+## Welcome to my GitHub Home Page
 
-[home page](https://ismccarthy.github.io/home.html)
-
-[index](https://ismccarthy.github.io/index.html)
+## Ian McCarthy
 
