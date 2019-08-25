@@ -13,7 +13,7 @@ Repositories:
 <br>
 [Twitter](https://twitter.com/iansmccarthy)
 <br>
-[Email](ianmccarthy.data@gmail.com)
+[Email](mailto: ianmccarthy.data@gmail.com)
 
 
 
