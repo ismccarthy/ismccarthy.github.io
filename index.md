@@ -10,3 +10,5 @@
 <br>
 ## Miscellaneous
 [A GitHub Markup Guide](https://guides.github.com/features/mastering-markdown/)
+
+:australia: | :gb:
