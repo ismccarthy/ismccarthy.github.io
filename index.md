@@ -1,7 +1,7 @@
 ## GitHub Links
 My GitHub [Profile](https://github.com/ismccarthy)
 
-- Repositories:
+Repositories:
   - Horse Race Prediction [Shiny web app](https://ianmccarthy.shinyapps.io/HorseRace/)
   - Horse Race Prediction [R (Shiny) code](https://github.com/ismccarthy/HorseRace_App)
   - Stock Valuation & Option Pricing [Python code](https://github.com/ismccarthy/StockValuation)
