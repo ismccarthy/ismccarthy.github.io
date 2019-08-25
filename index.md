@@ -8,10 +8,12 @@ Repositories:
   - Simple Neural Network - Iris Data Set [R code](https://github.com/ismccarthy/IrisNeuralNetwork)
   - All Code Repositories [here](https://github.com/ismccarthy)
   
-## Other Links
+## Contact
 [LinkedIn Profile](https://www.linkedin.com/in/ismccarthy/)
 <br>
 [Twitter](https://twitter.com/iansmccarthy)
+<br>
+[email](ianmccarthy.data@gmail.com)
 
 ## Miscellaneous
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
