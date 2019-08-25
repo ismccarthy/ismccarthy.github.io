@@ -15,4 +15,5 @@ Repositories:
 
 ## Miscellaneous
 Shiny from R Studio (Web Apps) [here](https://shiny.rstudio.com/)
-A GitHub Markup Guide [here](https://guides.github.com/features/mastering-markdown/)
+<br>
+Markup Guide for GitHub [here](https://guides.github.com/features/mastering-markdown/)
