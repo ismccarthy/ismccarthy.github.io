@@ -14,6 +14,6 @@ Repositories:
 [Twitter](https://twitter.com/iansmccarthy)
 
 ## Miscellaneous
-Shiny from R Studio (Web Apps) [here](https://shiny.rstudio.com/)
+Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
 <br>
 Markup Guide for GitHub [here](https://guides.github.com/features/mastering-markdown/)
