@@ -19,7 +19,6 @@ Repositories:
 [Email](mailto: ianmccarthy.data@gmail.com) ianmccarthy.data@gmail.com
 <br>
 <br>
-<br>
 
 ## :black_circle: Other
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
