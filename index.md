@@ -1,6 +1,6 @@
 ## :octocat: GitHub
 My GitHub [Profile](https://github.com/ismccarthy)
-
+<br>
 Repositories:
   - Horse Race Outcome Prediction [Shiny web app](https://ianmccarthy.shinyapps.io/HorseRace/)
   - Horse Race Outcome Prediction [R (Shiny) code](https://github.com/ismccarthy/HorseRace_App)
