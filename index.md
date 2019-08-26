@@ -7,17 +7,17 @@ Repositories:
   - Stock Valuation & Option Pricing [Python code](https://github.com/ismccarthy/StockValuation)
   - Simple Neural Network - Iris Data Set [R code](https://github.com/ismccarthy/IrisNeuralNetwork)
   - All Code Repositories [here](https://github.com/ismccarthy)
-  
+<br>
+<br>  
 ## :telephone: Contact
 [LinkedIn](https://www.linkedin.com/in/ismccarthy/)
 <br>
 [Twitter](https://twitter.com/iansmccarthy)
 <br>
 [Email](mailto: ianmccarthy.data@gmail.com) ianmccarthy.data@gmail.com
-
-
-
-## Miscellaneous
+<br>
+<br>
+## :large_black_circle: Miscellaneous
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
 <br>
 Markup guide for GitHub [here](https://guides.github.com/features/mastering-markdown/)
