@@ -1,4 +1,4 @@
-## GitHub Links
+## GitHub :octocat: Links
 My GitHub [Profile](https://github.com/ismccarthy)
 
 Repositories:
