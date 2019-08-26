@@ -10,6 +10,7 @@ Repositories:
 <br>
 <br>
 <br>
+
 ## :telephone: Contact
 [LinkedIn](https://www.linkedin.com/in/ismccarthy/)
 <br>
@@ -19,6 +20,7 @@ Repositories:
 <br>
 <br>
 <br>
+
 ## :black_circle: Other
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
 <br>
