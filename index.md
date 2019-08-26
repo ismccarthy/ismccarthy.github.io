@@ -18,7 +18,7 @@ Repositories:
 <br>
 <br>
 
-## :black_circle: Other
+## :earth_asia: Other
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
 <br>
 Markup guide for GitHub [here](https://guides.github.com/features/mastering-markdown/)
