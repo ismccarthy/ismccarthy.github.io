@@ -8,7 +8,6 @@ Repositories:
   - Simple Neural Network - Iris Data Set [R code](https://github.com/ismccarthy/IrisNeuralNetwork)
   - All Code Repositories [here](https://github.com/ismccarthy)
 <br>
-<br>
 
 ## :telephone: Contact
 [LinkedIn](https://www.linkedin.com/in/ismccarthy/)
