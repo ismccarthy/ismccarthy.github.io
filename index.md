@@ -9,6 +9,7 @@ Repositories:
   - All Code Repositories [here](https://github.com/ismccarthy)
   
  
+ 
 
 ## :telephone: Contact
 [LinkedIn](https://www.linkedin.com/in/ismccarthy/)
@@ -16,6 +17,7 @@ Repositories:
 [Twitter](https://twitter.com/iansmccarthy)
 
 [Email](mailto: ianmccarthy.data@gmail.com) ianmccarthy.data@gmail.com
+
 
 
 
