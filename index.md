@@ -9,7 +9,6 @@ Repositories:
   - All Code Repositories [here](https://github.com/ismccarthy)
 <br>
 <br>
-<br>
 
 ## :telephone: Contact
 [LinkedIn](https://www.linkedin.com/in/ismccarthy/)
