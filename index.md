@@ -21,14 +21,14 @@ Repositories:
 <br>
 
 ## Online Courses
-- Neural Networks and Deep Learning {Python|numpy} with deeplearning.ai (Coursera)
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python|numpy} with deeplearning.ai (Coursera)
-- Developing Data Products {R} with Johns Hopkins University (Coursera)
-- The Data Scientist's Toolbox {R} with Johns Hopkins University (Coursera)
-- Computing for Data Analysis {R} with Johns Hopkins University (Coursera)
-- Data Analysis {R} with Johns Hopkins University (Coursera)
-- Introduction to Computational Thinking & Data Science {Python} with MIT Open Courseware
-- Introduction to Computer Science & Programming using Python {Python} with MIT Open Courseware
+- Neural Networks and Deep Learning {Python|numpy} - deeplearning.ai (Coursera)
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python|TensorFlow} - deeplearning.ai (Coursera)
+- Developing Data Products {R} - Johns Hopkins University (Coursera)
+- The Data Scientist's Toolbox {R} - Johns Hopkins University (Coursera)
+- Computing for Data Analysis {R} - Johns Hopkins University (Coursera)
+- Data Analysis {R} - Johns Hopkins University (Coursera)
+- Introduction to Computational Thinking & Data Science {Python} - MIT Open Courseware
+- Introduction to Computer Science & Programming using Python {Python} - MIT Open Courseware
 <br>
 <br>
 
