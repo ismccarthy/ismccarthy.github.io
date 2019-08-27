@@ -33,10 +33,21 @@ Repositories:
 <br>
 
 ## Work Experience
-- Freelance SAP Business Intelligence Consultant
-- Freelance SAP Financials Consultant
+- SAP Business Intelligence Consultant
+- SAP Financials Consultant
 - Management Accountant
 - Auditor
+<br>
+<br>
+
+## Employers
+- Feelance Consultant (Current)
+- IBM Australia
+- PwC Australia
+- Henkel KGaA, Germany
+- Henkel Ltd, UK
+- Three Valleys Water Company, UK
+- Stoy Hayward Chartered Accountants, UK
 <br>
 <br>
 
