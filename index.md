@@ -21,8 +21,8 @@ Repositories:
 <br>
 
 ## Online Courses
-- Neural Networks and Deep Learning [Python|numpy|TensorFlow] with deeplearning.ai (Coursera)
-- Developing Data Products [R] with Johns Hopkins University (Coursera)
+- Neural Networks and Deep Learning <Python|numpy|TensorFlow> with deeplearning.ai (Coursera)
+- Developing Data Products {R} with Johns Hopkins University (Coursera)
 - The Data Scientist's Toolbox [R] with Johns Hopkins University (Coursera)
 <br>
 - Computing for Data Analysis [R] with Johns Hopkins University (Coursera)
