@@ -20,15 +20,15 @@ Repositories:
 <br>
 
 ## Online Courses
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python, TensorFlow} - deeplearning.ai (Coursera)
-- Neural Networks and Deep Learning {Python, numpy} - deeplearning.ai (Coursera)
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python - TensorFlow} - deeplearning.ai (Coursera)
+- Neural Networks and Deep Learning {Python - numpy} - deeplearning.ai (Coursera)
 - Developing Data Products {R} - Johns Hopkins University (Coursera)
 - The Data Scientist's Toolbox {R} - Johns Hopkins University (Coursera)
 - Computing for Data Analysis {R} - Johns Hopkins University (Coursera)
 - Data Analysis {R} - Johns Hopkins University (Coursera)
 - Introduction to Computational Thinking & Data Science {Python} - MIT Open Courseware
 - Introduction to Computer Science & Programming using Python {Python} - MIT Open Courseware
-- Data Science Classroom Based Bootcamp - General Assembly, Sydney
+- Data Science Classroom Based Bootcamp {R, Python} - General Assembly, Sydney
 <br>
 <br>
 
