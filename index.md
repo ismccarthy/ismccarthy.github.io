@@ -11,18 +11,18 @@ Repositories:
 <br>
 
 ## Formal Education
- - Financial Economics - Masters Degree | Macquarie University, Australia.
- - Philosophy - Diploma | Sydney University, Australia.
- - Physics Research Techniques - Postgrad. (incomplete) | University of NSW (UNSW), Australia.
- - Data Science | General Assembly, Sydney
- - Management Accounting Professional Qualification | Chartered Institute of Management Accountants, UK.
- - Food Technology BSc. (Hons) | University of Reading, UK.
+ - Financial Economics (Masters Degree) - Macquarie University, Australia.
+ - Philosophy (Diploma) - Sydney University, Australia.
+ - Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.
+ - Data Science - General Assembly, Sydney
+ - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
+ - Food Technology (BSc. Hons) - University of Reading, UK.
 <br>
 <br>
 
 ## Online Courses
-- Neural Networks and Deep Learning {Python|numpy} - deeplearning.ai (Coursera)
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python|TensorFlow} - deeplearning.ai (Coursera)
+- Neural Networks and Deep Learning {Python, numpy} - deeplearning.ai (Coursera)
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python, TensorFlow} - deeplearning.ai (Coursera)
 - Developing Data Products {R} - Johns Hopkins University (Coursera)
 - The Data Scientist's Toolbox {R} - Johns Hopkins University (Coursera)
 - Computing for Data Analysis {R} - Johns Hopkins University (Coursera)
