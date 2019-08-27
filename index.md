@@ -14,7 +14,6 @@ Repositories:
  - Financial Economics (Masters Degree) - Macquarie University, Australia.
  - Philosophy (Diploma) - Sydney University, Australia.
  - Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.
- - Data Science - General Assembly, Sydney
  - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
  - Food Technology (BSc. Hons) - University of Reading, UK.
 <br>
@@ -29,6 +28,7 @@ Repositories:
 - Data Analysis {R} - Johns Hopkins University (Coursera)
 - Introduction to Computational Thinking & Data Science {Python} - MIT Open Courseware
 - Introduction to Computer Science & Programming using Python {Python} - MIT Open Courseware
+- Data Science Classroom Based Bootcamp - General Assembly, Sydney
 <br>
 <br>
 
