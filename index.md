@@ -16,11 +16,16 @@ Financial Economics - Masters Degree at Macquarie University, Australia.
 Philosophy - Diploma at Sydney University, Australia.
 <br>
 Physics Research Techniques - Postgrad. (incomplete) at University of NSW (UNSW), Australia.
+<br>
 Management Accounting at Chartered Institute of Management Accountants, UK.
+<br>
 Food Technology at University of Reading, UK.
+<br>
+<br>
 
 ## Online Courses
-
+Neural Networks and Deep Learning [Python|numpy|TensorFlow] with deeplearning.ai (Coursera)
+Developing Data Products [R] with Johns Hopkins University (Coursera)
 
 
 
