@@ -31,6 +31,7 @@ Repositories:
 - Introduction to Computer Science & Programming using Python {Python} - MIT Open Courseware
 <br>
 <br>
+
 ## Work Experience
 - Freelance SAP Business Intelligence Consultant
 - Freelance SAP Financials Consultant
@@ -38,7 +39,6 @@ Repositories:
 - Auditor
 <br>
 <br>
-
 
 ## :earth_asia: References
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
