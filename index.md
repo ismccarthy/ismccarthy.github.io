@@ -42,8 +42,8 @@ Repositories:
 
 ## Employers
 - Feelance Consultant (Current)
-- IBM Australia
-- PwC Australia
+- IBM Consulting, Australia
+- PwC Consulting, Australia
 - Henkel KGaA, Germany
 - Henkel Ltd, UK
 - Three Valleys Water Company, UK
