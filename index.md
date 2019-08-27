@@ -11,12 +11,12 @@ Repositories:
 <br>
 
 ## Formal Education
- - Financial Economics - Masters Degree at Macquarie University, Australia.
- - Philosophy - Diploma at Sydney University, Australia.
- - Physics Research Techniques - Postgrad. (incomplete) at University of NSW (UNSW), Australia.
- - Data Science at General Assembly, Sydney
- - Management Accounting Professional Qualification at Chartered Institute of Management Accountants, UK.
- - Food Technology BSc. (Hons) at University of Reading, UK.
+ - Financial Economics - Masters Degree | Macquarie University, Australia.
+ - Philosophy - Diploma | Sydney University, Australia.
+ - Physics Research Techniques - Postgrad. (incomplete) | University of NSW (UNSW), Australia.
+ - Data Science | General Assembly, Sydney
+ - Management Accounting Professional Qualification | Chartered Institute of Management Accountants, UK.
+ - Food Technology BSc. (Hons) | University of Reading, UK.
 <br>
 <br>
 
