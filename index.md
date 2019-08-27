@@ -10,6 +10,19 @@ Repositories:
 <br>
 <br>
 
+## Formal Education
+Financial Economics - Masters Degree at Macquarie University, Australia.
+Philosophy - Diploma at Sydney University, Australia.
+Physics Research Techniques - Postgrad. (incomplete) at University of NSW (UNSW), Australia.
+Management Accounting at Chartered Institute of Management Accountants, UK.
+Food Technology at University of Reading, UK.
+
+## Online Courses
+
+
+
+
+
 ## :earth_asia: References
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
 <br>
