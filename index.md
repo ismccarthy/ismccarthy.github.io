@@ -11,23 +11,36 @@ Repositories:
 <br>
 
 ## Formal Education
-Financial Economics - Masters Degree at Macquarie University, Australia.
+- Financial Economics - Masters Degree at Macquarie University, Australia.
 <br>
-Philosophy - Diploma at Sydney University, Australia.
+- Philosophy - Diploma at Sydney University, Australia.
 <br>
-Physics Research Techniques - Postgrad. (incomplete) at University of NSW (UNSW), Australia.
+- Physics Research Techniques - Postgrad. (incomplete) at University of NSW (UNSW), Australia.
 <br>
-Management Accounting at Chartered Institute of Management Accountants, UK.
+- Data Science at General Assembly, Sydney
 <br>
-Food Technology at University of Reading, UK.
+- Management Accounting at Chartered Institute of Management Accountants, UK.
+<br>
+- Food Technology at University of Reading, UK.
 <br>
 <br>
 
 ## Online Courses
-Neural Networks and Deep Learning [Python|numpy|TensorFlow] with deeplearning.ai (Coursera)
-Developing Data Products [R] with Johns Hopkins University (Coursera)
-
-
+- Neural Networks and Deep Learning [Python|numpy|TensorFlow] with deeplearning.ai (Coursera)
+<br>
+- Developing Data Products [R] with Johns Hopkins University (Coursera)
+<br>
+- The Data Scientist's Toolbox [R] with Johns Hopkins University (Coursera)
+<br>
+- Computing for Data Analysis [R] with Johns Hopkins University (Coursera)
+<br>
+- Data Analysis [R] with Johns Hopkins University (Coursera)
+<br>
+- Introduction to Computational Thinking & Data Science [Python] with MIT Open Courseware
+<br>
+- Introduction to Computer Science & Programming using Python [Python] with MIT Open Courseware
+<br>
+<br>
 
 
 ## :earth_asia: References
