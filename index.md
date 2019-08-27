@@ -11,27 +11,24 @@ Repositories:
 <br>
 
 ## Formal Education
-  - Financial Economics - Masters Degree at Macquarie University, Australia.
-  - Philosophy - Diploma at Sydney University, Australia.
-  - Physics Research Techniques - Postgrad. (incomplete) at University of NSW (UNSW), Australia.
-  - Data Science at General Assembly, Sydney
-  - Management Accounting at Chartered Institute of Management Accountants, UK.
-  - Food Technology at University of Reading, UK.
+ - Financial Economics - Masters Degree at Macquarie University, Australia.
+ - Philosophy - Diploma at Sydney University, Australia.
+ - Physics Research Techniques - Postgrad. (incomplete) at University of NSW (UNSW), Australia.
+ - Data Science at General Assembly, Sydney
+ - Management Accounting Professional Qualification at Chartered Institute of Management Accountants, UK.
+ - Food Technology BSc. (Hons) at University of Reading, UK.
 <br>
 <br>
 
 ## Online Courses
-- Neural Networks and Deep Learning <Python|numpy|TensorFlow> with deeplearning.ai (Coursera)
+- Neural Networks and Deep Learning {Python|numpy} with deeplearning.ai (Coursera)
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python|numpy} with deeplearning.ai (Coursera)
 - Developing Data Products {R} with Johns Hopkins University (Coursera)
-- The Data Scientist's Toolbox [R] with Johns Hopkins University (Coursera)
-<br>
-- Computing for Data Analysis [R] with Johns Hopkins University (Coursera)
-<br>
-- Data Analysis [R] with Johns Hopkins University (Coursera)
-<br>
-- Introduction to Computational Thinking & Data Science [Python] with MIT Open Courseware
-<br>
-- Introduction to Computer Science & Programming using Python [Python] with MIT Open Courseware
+- The Data Scientist's Toolbox {R} with Johns Hopkins University (Coursera)
+- Computing for Data Analysis {R} with Johns Hopkins University (Coursera)
+- Data Analysis {R} with Johns Hopkins University (Coursera)
+- Introduction to Computational Thinking & Data Science {Python} with MIT Open Courseware
+- Introduction to Computer Science & Programming using Python {Python} with MIT Open Courseware
 <br>
 <br>
 
