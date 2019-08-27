@@ -1,4 +1,4 @@
-## :octocat: GitHub
+## GitHub Account
 My GitHub [Profile](https://github.com/ismccarthy)
 <br>
 Repositories:
@@ -21,8 +21,8 @@ Repositories:
 <br>
 
 ## Online Courses
-- Neural Networks and Deep Learning {Python, numpy} - deeplearning.ai (Coursera)
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python, TensorFlow} - deeplearning.ai (Coursera)
+- Neural Networks and Deep Learning {Python, numpy} - deeplearning.ai (Coursera)
 - Developing Data Products {R} - Johns Hopkins University (Coursera)
 - The Data Scientist's Toolbox {R} - Johns Hopkins University (Coursera)
 - Computing for Data Analysis {R} - Johns Hopkins University (Coursera)
@@ -51,10 +51,10 @@ Repositories:
 <br>
 <br>
 
-## :earth_asia: References
+## References
 Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
 <br>
-Markup guide for GitHub [here](https://guides.github.com/features/mastering-markdown/)
+Markup guide for GitHub (used for this site) [here](https://guides.github.com/features/mastering-markdown/)
 <br>
 <br>
 <br>
