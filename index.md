@@ -33,12 +33,12 @@ Repositories:
 <br>
 
 ## Skills
-- Python
-- R
+- Python (intermediate)
+- R (intermediate)
 - Mathematics
-  - Econometrics, Probability & Statistics
-  - Linear Algebra
-  - Calculus & Differential Equations
+  - Econometrics, Probability & Statistics (university level)
+  - Linear Algebra (university level)
+  - Calculus & Differential Equations (university level)
 
 ## Work Experience
 - SAP Business Intelligence Consultant
