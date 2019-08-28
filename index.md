@@ -60,8 +60,8 @@ Repositories:
 - Feelance Consultant (Current)
 - IBM Consulting, Australia
 - PwC Consulting, Australia
-- Henkel KGaA, Germany
-- Henkel Ltd, UK
+- Henkel (Chemicals) KGaA, Germany
+- Henkel (Chemicals) Ltd, UK
 - Three Valleys Water Company, UK
 - Stoy Hayward Chartered Accountants, UK
 <br>
