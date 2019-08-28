@@ -32,6 +32,22 @@ Repositories:
 <br>
 <br>
 
+## Skills
+- Python
+  - Tensorflow 
+  - numpy
+  - <pandas>
+  - <matplotlib>
+
+- R
+  - ggplot
+  - lattice 
+
+- Mathematics
+  - Probability, Statistics & Econometrics
+  - Linear Algebra
+  - Calculus & Differential Equations
+
 ## Work Experience
 - SAP Business Intelligence Consultant
 - SAP Financials Consultant
