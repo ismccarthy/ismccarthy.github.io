@@ -40,8 +40,8 @@ Repositories:
   - <matplotlib>
 
 - R
-  - ggplot
-  - lattice 
+  - ggplot2
+  - lattice graphs
 
 - Mathematics
   - Probability, Statistics & Econometrics
