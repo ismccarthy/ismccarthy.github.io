@@ -67,13 +67,6 @@ Repositories:
 <br>
 <br>
 
-## References
-Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
-<br>
-Markup guide for GitHub (used for this site) [here](https://guides.github.com/features/mastering-markdown/)
-<br>
-<br>
-
 ## :telephone: Contact
 [LinkedIn](https://www.linkedin.com/in/ismccarthy/)
 <br>
