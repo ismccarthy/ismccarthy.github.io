@@ -11,8 +11,8 @@ Repositories:
 <br>
 
 ## Formal Education
- - Financial Economics (Masters Degree) - Macquarie University, Australia.
- - Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.
+ - Financial Economics<sup>1</sup> (Masters Degree) - Macquarie University, Australia.
+ - Physics Research Techniques<sup>2</sup> (Postgrad. incomplete) - University of NSW (UNSW), Australia.
  - Philosophy (Diploma) - Sydney University, Australia.
  - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
  - Food Technology (BSc. Hons) - University of Reading, UK.
