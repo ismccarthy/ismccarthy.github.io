@@ -10,11 +10,6 @@ Repositories:
 <br>
 <br>
 
-## Kaggle
-- More work required [here](https://www.kaggle.com/ianmccarthy)
-<br>
-<br>
-
 ## Skills
 - Mathematics
   - <sup>1</sup> Econometrics, Probability & Statistics (university level)
@@ -45,6 +40,11 @@ Repositories:
  - Philosophy (Diploma) - Sydney University, Australia.
  - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
  - Food Technology (BSc. Hons) - University of Reading, UK.
+<br>
+<br>
+
+## Kaggle
+- More work required [here](https://www.kaggle.com/ianmccarthy)
 <br>
 <br>
 
