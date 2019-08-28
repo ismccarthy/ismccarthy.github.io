@@ -36,9 +36,9 @@ Repositories:
 - Python (intermediate)
 - R (intermediate)
 - Mathematics
-  - Econometrics, Probability & Statistics (university level)
-  - Linear Algebra (university level)
-  - Calculus & Differential Equations (university level)
+  - <sup>1</sup>Econometrics, Probability & Statistics (university level)
+  - <sup>1</sup>Linear Algebra (university level)
+  - <sup>2</sup>Calculus & Differential Equations (university level)
 
 ## Work Experience
 - SAP Business Intelligence Consultant
