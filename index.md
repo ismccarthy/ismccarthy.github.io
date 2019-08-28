@@ -21,6 +21,15 @@ Repositories:
 <br>
 <br>
 
+## Formal Study
+ - <sup>1</sup> Financial Economics (Masters Degree) - Macquarie University, Australia.
+ - <sup>2</sup> Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.
+ - Philosophy (Diploma) - Sydney University, Australia.
+ - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
+ - Food Technology (BSc. Hons) - University of Reading, UK.
+<br>
+<br>
+
 ## Online Study
 - <sup>3</sup> Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - deeplearning.ai (Coursera)
 - <sup>3</sup> Neural Networks and Deep Learning - deeplearning.ai (Coursera)
@@ -31,15 +40,6 @@ Repositories:
 - <sup>3</sup> Introduction to Computational Thinking & Data Science - MIT Open Courseware
 - <sup>3</sup> Introduction to Computer Science & Programming using Python - MIT Open Courseware
 - <sup>3,4</sup> Data Science Classroom Based Bootcamp - General Assembly, Sydney
-<br>
-<br>
-
-## Formal Study
- - <sup>1</sup> Financial Economics (Masters Degree) - Macquarie University, Australia.
- - <sup>2</sup> Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.
- - Philosophy (Diploma) - Sydney University, Australia.
- - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
- - Food Technology (BSc. Hons) - University of Reading, UK.
 <br>
 <br>
 
