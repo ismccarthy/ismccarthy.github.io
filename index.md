@@ -34,15 +34,7 @@ Repositories:
 
 ## Skills
 - Python
-  - Tensorflow 
-  - numpy
-  <pandas>
-  <matplotlib>
-
 - R
-  - ggplot2
-  - lattice graphs
-
 - Mathematics
   - Probability, Statistics & Econometrics
   - Linear Algebra
