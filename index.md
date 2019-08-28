@@ -33,12 +33,14 @@ Repositories:
 <br>
 
 ## Skills
-- <sup>3</sup>Python (intermediate)
-- <sup>4</sup>R (intermediate)
+
 - Mathematics
   - <sup>1</sup>Econometrics, Probability & Statistics (university level)
   - <sup>1</sup>Linear Algebra (university level)
   - <sup>2</sup>Calculus & Differential Equations (university level)
+- Programming
+  - <sup>3</sup>Python (intermediate)
+ - <sup>4</sup>R (intermediate)
 
 ## Work Experience
 - SAP Business Intelligence Consultant
