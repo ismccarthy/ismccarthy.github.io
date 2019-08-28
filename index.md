@@ -12,31 +12,31 @@ Repositories:
 
 ## Technical Skills
 - Mathematics
-  - <sup>1</sup> Econometrics, Probability & Statistics (university level)
-  - <sup>1</sup> Linear Algebra (university level)
-  - <sup>2</sup> Calculus & Differential Equations (university level)
+  - Econometrics, Probability & Statistics (university level)<sup>1</sup>
+  - Linear Algebra (university level)<sup>1</sup>
+  - Calculus & Differential Equations (university level)<sup>2</sup>
 - Programming
-  - <sup>3</sup> Python (intermediate)
-  - <sup>4</sup> R (intermediate)
+  - Python (intermediate)<sup>3</sup>
+  - R (intermediate)<sup>4</sup>
 <br>
 <br>
 
 ## Online Study
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - deeplearning.ai (Coursera)<sup>3</sup>
-- Neural Networks and Deep Learning - deeplearning.ai (Coursera)<sup>3</sup>
-- Developing Data Products - Johns Hopkins University (Coursera)<sup>4</sup>
-- The Data Scientist's Toolbox - Johns Hopkins University (Coursera)<sup>4</sup>
-- Computing for Data Analysis - Johns Hopkins University (Coursera)<sup>4</sup>
-- Data Analysis - Johns Hopkins University (Coursera)<sup>4</sup>
-- Introduction to Computational Thinking & Data Science - MIT Open Courseware<sup>3</sup>
-- Introduction to Computer Science & Programming using Python - MIT Open Courseware<sup>3</sup>
-- Data Science Classroom Based Bootcamp - General Assembly, Sydney<sup>3,4</sup>
+- <sup>3</sup> Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - deeplearning.ai (Coursera)
+- <sup>3</sup> Neural Networks and Deep Learning - deeplearning.ai (Coursera)
+- <sup>4</sup> Developing Data Products - Johns Hopkins University (Coursera)
+- <sup>4</sup> The Data Scientist's Toolbox - Johns Hopkins University (Coursera)
+- <sup>4</sup> Computing for Data Analysis - Johns Hopkins University (Coursera)
+- <sup>4</sup> Data Analysis - Johns Hopkins University (Coursera)
+- <sup>3</sup> Introduction to Computational Thinking & Data Science - MIT Open Courseware
+- <sup>3</sup> Introduction to Computer Science & Programming using Python - MIT Open Courseware
+- <sup>3,4</sup> Data Science Classroom Based Bootcamp - General Assembly, Sydney
 <br>
 <br>
 
 ## Formal Study
- - Financial Economics (Masters Degree) - Macquarie University, Australia.<sup>1</sup>
- - Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.<sup>2</sup>
+ - <sup>1</sup> Financial Economics (Masters Degree) - Macquarie University, Australia.
+ - <sup>2</sup> Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.
  - Philosophy (Diploma) - Sydney University, Australia.
  - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
  - Food Technology (BSc. Hons) - University of Reading, UK.
