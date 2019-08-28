@@ -19,7 +19,7 @@ Repositories:
 <br>
 <br>
 
-## Online Courses
+## Online Study
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python - TensorFlow} - deeplearning.ai (Coursera)
 - Neural Networks and Deep Learning {Python - numpy} - deeplearning.ai (Coursera)
 - Developing Data Products {R} - Johns Hopkins University (Coursera)
