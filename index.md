@@ -36,7 +36,7 @@ Repositories:
 - Python
 - R
 - Mathematics
-  - Probability, Statistics & Econometrics
+  - Econometrics, Probability & Statistics
   - Linear Algebra
   - Calculus & Differential Equations
 
