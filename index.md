@@ -1,5 +1,5 @@
-## GitHub Account
-My GitHub [Profile](https://github.com/ismccarthy)
+## GitHub
+GitHub [Profile](https://github.com/ismccarthy)
 <br>
 Repositories:
   - Horse Race Outcome Prediction [Shiny web app](https://ianmccarthy.shinyapps.io/HorseRace/)
@@ -10,7 +10,7 @@ Repositories:
 <br>
 <br>
 
-## Skills
+## Technical Skills
 - Mathematics
   - <sup>1</sup> Econometrics, Probability & Statistics (university level)
   - <sup>1</sup> Linear Algebra (university level)
@@ -34,7 +34,7 @@ Repositories:
 <br>
 <br>
 
-## Formal Education
+## Formal Study
  - Financial Economics (Masters Degree) - Macquarie University, Australia.<sup>1</sup>
  - Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.<sup>2</sup>
  - Philosophy (Diploma) - Sydney University, Australia.
@@ -43,7 +43,7 @@ Repositories:
 <br>
 <br>
 
-## Kaggle
+## Kaggle Competitions
 - More work required [here](https://www.kaggle.com/ianmccarthy)
 <br>
 <br>
