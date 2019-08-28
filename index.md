@@ -20,21 +20,21 @@ Repositories:
 <br>
 
 ## Online Study
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization {Python - TensorFlow} - deeplearning.ai (Coursera)
-- Neural Networks and Deep Learning {Python - numpy} - deeplearning.ai (Coursera)
-- Developing Data Products {R} - Johns Hopkins University (Coursera)
-- The Data Scientist's Toolbox {R} - Johns Hopkins University (Coursera)
-- Computing for Data Analysis {R} - Johns Hopkins University (Coursera)
-- Data Analysis {R} - Johns Hopkins University (Coursera)
-- Introduction to Computational Thinking & Data Science {Python} - MIT Open Courseware
-- Introduction to Computer Science & Programming using Python {Python} - MIT Open Courseware
-- Data Science Classroom Based Bootcamp {R, Python} - General Assembly, Sydney
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization<sup>3</sup> - deeplearning.ai (Coursera)
+- Neural Networks and Deep Learning<sup>3</sup> - deeplearning.ai (Coursera)
+- Developing Data Products<sup>4</sup> - Johns Hopkins University (Coursera)
+- The Data Scientist's Toolbox<sup>4</sup> - Johns Hopkins University (Coursera)
+- Computing for Data Analysis<sup>4</sup> - Johns Hopkins University (Coursera)
+- Data Analysis<sup>4</sup> - Johns Hopkins University (Coursera)
+- Introduction to Computational Thinking & Data Science<sup>3</sup> - MIT Open Courseware
+- Introduction to Computer Science & Programming using Python<sup>3</sup> - MIT Open Courseware
+- Data Science Classroom Based Bootcamp<sup>3, 4</sup> - General Assembly, Sydney
 <br>
 <br>
 
 ## Skills
-- Python (intermediate)
-- R (intermediate)
+- <sup>3</sup>Python (intermediate)
+- <sup>4</sup>R (intermediate)
 - Mathematics
   - <sup>1</sup>Econometrics, Probability & Statistics (university level)
   - <sup>1</sup>Linear Algebra (university level)
