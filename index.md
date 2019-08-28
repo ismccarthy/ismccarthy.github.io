@@ -40,7 +40,7 @@ Repositories:
   - <sup>2</sup>Calculus & Differential Equations (university level)
 - Programming
   - <sup>3</sup>Python (intermediate)
- - <sup>4</sup>R (intermediate)
+  - <sup>4</sup>R (intermediate)
 
 ## Work Experience
 - SAP Business Intelligence Consultant
