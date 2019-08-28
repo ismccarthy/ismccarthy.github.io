@@ -22,11 +22,11 @@ Repositories:
 <br>
 
 ## Formal Study
- - <sup>1</sup> Financial Economics (Masters Degree) - Macquarie University, Australia.
- - <sup>2</sup> Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.
- - Philosophy (Diploma) - Sydney University, Australia.
- - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
- - Food Technology (BSc. Hons) - University of Reading, UK.
+ - <sup>1</sup> Financial Economics (Masters Degree) - Macquarie University, Australia
+ - <sup>2</sup> Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia
+ - Philosophy (Diploma) - Sydney University, Australia
+ - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK
+ - Food Technology (BSc. Hons) - University of Reading, UK
 <br>
 <br>
 
