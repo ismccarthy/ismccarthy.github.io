@@ -36,8 +36,8 @@ Repositories:
 - Python
   - Tensorflow 
   - numpy
-  - <pandas>
-  - <matplotlib>
+  <pandas>
+  <matplotlib>
 
 - R
   - ggplot2
