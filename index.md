@@ -12,13 +12,17 @@ Repositories:
 
 ## Kaggle
 - More work required [here](https://www.kaggle.com/ianmccarthy)
+<br>
+<br>
 
-## Formal Education
- - Financial Economics (Masters Degree) - Macquarie University, Australia.<sup>1</sup>
- - Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.<sup>2</sup>
- - Philosophy (Diploma) - Sydney University, Australia.
- - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
- - Food Technology (BSc. Hons) - University of Reading, UK.
+## Skills
+- Mathematics
+  - <sup>1</sup> Econometrics, Probability & Statistics (university level)
+  - <sup>1</sup> Linear Algebra (university level)
+  - <sup>2</sup> Calculus & Differential Equations (university level)
+- Programming
+  - <sup>3</sup> Python (intermediate)
+  - <sup>4</sup> R (intermediate)
 <br>
 <br>
 
@@ -35,15 +39,14 @@ Repositories:
 <br>
 <br>
 
-## Skills
-
-- Mathematics
-  - <sup>1</sup> Econometrics, Probability & Statistics (university level)
-  - <sup>1</sup> Linear Algebra (university level)
-  - <sup>2</sup> Calculus & Differential Equations (university level)
-- Programming
-  - <sup>3</sup> Python (intermediate)
-  - <sup>4</sup> R (intermediate)
+## Formal Education
+ - Financial Economics (Masters Degree) - Macquarie University, Australia.<sup>1</sup>
+ - Physics Research Techniques (Postgrad. incomplete) - University of NSW (UNSW), Australia.<sup>2</sup>
+ - Philosophy (Diploma) - Sydney University, Australia.
+ - Management Accounting (Professional Qualification) - Chartered Institute of Management Accountants, UK.
+ - Food Technology (BSc. Hons) - University of Reading, UK.
+<br>
+<br>
 
 ## Work Experience
 - SAP Business Intelligence Consultant
@@ -70,7 +73,6 @@ Info on creating Shiny Web Apps [here](https://shiny.rstudio.com/)
 Markup guide for GitHub (used for this site) [here](https://guides.github.com/features/mastering-markdown/)
 <br>
 <br>
-<br>
 
 ## :telephone: Contact
 [LinkedIn](https://www.linkedin.com/in/ismccarthy/)
@@ -78,6 +80,5 @@ Markup guide for GitHub (used for this site) [here](https://guides.github.com/fe
 [Twitter](https://twitter.com/iansmccarthy)
 <br>
 [Email](mailto: ianmccarthy.data@gmail.com) ianmccarthy.data@gmail.com
-<br>
 <br>
 <br>
