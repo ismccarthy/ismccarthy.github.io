@@ -10,6 +10,9 @@ Repositories:
 <br>
 <br>
 
+## Kaggle
+- Not much happened [here](https://www.kaggle.com/ianmccarthy) yet!
+
 ## Formal Education
  - Financial Economics<sup>1</sup> (Masters Degree) - Macquarie University, Australia.
  - Physics Research Techniques<sup>2</sup> (Postgrad. incomplete) - University of NSW (UNSW), Australia.
