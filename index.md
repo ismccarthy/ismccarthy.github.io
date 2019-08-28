@@ -39,7 +39,7 @@ Repositories:
 - <sup>4</sup> Data Analysis - Johns Hopkins University (Coursera)
 - <sup>3</sup> Introduction to Computational Thinking & Data Science - MIT Open Courseware
 - <sup>3</sup> Introduction to Computer Science & Programming using Python - MIT Open Courseware
-- <sup>3,4</sup> Data Science Classroom Based Bootcamp - General Assembly, Sydney
+- <sup>3,4</sup> Data Science Bootcamp, Classroom Based - General Assembly, Sydney
 <br>
 <br>
 
