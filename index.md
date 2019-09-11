@@ -11,13 +11,13 @@ Repositories:
 <br>
 
 ## Technical Skills
-- Mathematics
-  - Econometrics, Probability & Statistics (university level)<sup>1</sup>
-  - Linear Algebra (university level)<sup>1</sup>
-  - Calculus & Differential Equations (university level)<sup>2</sup>
 - Programming
   - Python (intermediate)<sup>3</sup>
   - R (intermediate)<sup>4</sup>
+ - Mathematics
+  - Econometrics, Probability & Statistics (university level)<sup>1</sup>
+  - Linear Algebra (university level)<sup>1</sup>
+  - Calculus & Differential Equations (university level)<sup>2</sup>
 <br>
 <br>
 
