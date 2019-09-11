@@ -1,5 +1,5 @@
 ## GitHub
-GitHub [Profile](https://github.com/ismccarthy)
+  - GitHub [Profile](https://github.com/ismccarthy)
 <br>
   - Repositories:
     - Horse Race Outcome Prediction [Shiny web app](https://ianmccarthy.shinyapps.io/HorseRace/)
