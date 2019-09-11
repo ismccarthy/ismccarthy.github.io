@@ -1,12 +1,12 @@
 ## GitHub
 GitHub [Profile](https://github.com/ismccarthy)
 <br>
-Repositories:
-  - Horse Race Outcome Prediction [Shiny web app](https://ianmccarthy.shinyapps.io/HorseRace/)
-  - Horse Race Outcome Prediction [R (Shiny) code](https://github.com/ismccarthy/HorseRace_App)
-  - Stock Valuation & Option Pricing [Python code](https://github.com/ismccarthy/StockValuation)
-  - Simple Neural Network - Iris Data Set [R code](https://github.com/ismccarthy/IrisNeuralNetwork)
-  - All Code Repositories [here](https://github.com/ismccarthy)
+  - Repositories:
+    - Horse Race Outcome Prediction [Shiny web app](https://ianmccarthy.shinyapps.io/HorseRace/)
+    - Horse Race Outcome Prediction [R (Shiny) code](https://github.com/ismccarthy/HorseRace_App)
+    - Stock Valuation & Option Pricing [Python code](https://github.com/ismccarthy/StockValuation)
+    - Simple Neural Network - Iris Data Set [R code](https://github.com/ismccarthy/IrisNeuralNetwork)
+    - All Code Repositories [here](https://github.com/ismccarthy)
 <br>
 <br>
 
@@ -68,10 +68,10 @@ Repositories:
 <br>
 
 ## :telephone: Contact
-[LinkedIn](https://www.linkedin.com/in/ismccarthy/)
+  - [LinkedIn](https://www.linkedin.com/in/ismccarthy/)
 <br>
-[Twitter](https://twitter.com/iansmccarthy)
+  - [Twitter](https://twitter.com/iansmccarthy)
 <br>
-[Email](mailto: ianmccarthy.data@gmail.com) ianmccarthy.data@gmail.com
+  - [Email](mailto: ianmccarthy.data@gmail.com) ianmccarthy.data@gmail.com
 <br>
 <br>
