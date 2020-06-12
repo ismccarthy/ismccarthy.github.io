@@ -57,7 +57,7 @@
 <br>
 
 ## Employers
-- Feelance Consultant (Current)
+- Feeelance Consultant (Current)
 - IBM Consulting, Australia
 - PwC Consulting, Australia
 - Henkel (Chemicals) KGaA, Germany
